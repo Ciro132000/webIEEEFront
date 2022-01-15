@@ -1,0 +1,33 @@
+.header{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(145deg, rgba(9,17,42,1) 55%, rgba(0,112,217,1)100%);
+    background-position: center;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+.text-header{
+    min-height: 100%;
+    color: white;
+}
+
+.text-header h2{
+    font-size: 4rem;
+    color: #FBA41A;
+    font-weight: bolder;
+}
+
+.text-header p{
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+
+.btn-events{
+    margin: 2rem 0;
+    padding: 10px 30px;
+    font-size: 2rem; 
+    background-color: #FBA41A;
+    color: black;
+    font-weight: bolder;
+}
